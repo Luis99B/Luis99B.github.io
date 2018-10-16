@@ -1,0 +1,21 @@
+.grey {
+    background-color: rgba(120, 120, 120, 1);
+}
+
+.highlighted {
+    background-color: rgba(240, 255, 255, 1);
+}
+
+.main_title {
+    font-size: 40px;
+    text-decoration-style: solid;
+}
+
+.sub_title {
+    font-size: 30px;
+    text-decoration-style: solid;
+}
+
+.sub_explanation {
+    font-size: 20px;
+}
