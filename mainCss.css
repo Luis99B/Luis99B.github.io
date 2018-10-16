@@ -1,9 +1,10 @@
 .grey {
-    background-color: rgba(60, 60, 60, 1);
+    background-color: rgba(40, 40, 40, 1);
 }
 
 .highlighted {
-    background-color: rgba(200, 220, 220, .8);
+    background-color: rgba(180, 190, 190, .8);
+    color: #000;
 }
 
 .main_title {
